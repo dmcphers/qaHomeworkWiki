@@ -120,7 +120,7 @@ describe("Employee Manager 1.2", () => {
     });
 });
 
-    describe("handles error messages correctly", () => {
+     describe("handles error messages correctly", () => {
         test("shows an error message for an empty name field", async () => {
             /*
             This test follows these steps:
